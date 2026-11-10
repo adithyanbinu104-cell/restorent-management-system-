@@ -1,0 +1,12 @@
+
+> rms@0.1.0 dev
+> next dev
+
+▲ Next.js 16.4.5 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.84:3000
+- Environments: .env.local
+✓ Ready in 1286ms
+✓ Running next.config.ts took 215ms
+
+ GET /api/orders 200 in 240ms (next.js: 176ms, application-code: 63ms)
